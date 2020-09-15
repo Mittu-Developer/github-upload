@@ -6,7 +6,7 @@ public class Main {
 System.out.println(staticheck.getVar());
 staticheck.setVar(50);
 System.out.println(staticheck.getVar());
-
+System.out.println("This is the new change");
 
 System.out.println(staticheck.getVar());
 staticheck.setVar(30);
